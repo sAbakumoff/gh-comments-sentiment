@@ -1,2 +1,2 @@
-# gh-comments-sentiment
-Analysis of Github Commits Comments
+The data and the script to draw the following plot
+![](plot.png)
